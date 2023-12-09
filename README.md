@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @muhd-fayas
-- 👀 I’m interested in Verilog and Embedded C Coding and Projects
+- 👀 I’m interested in Verilog, VLSI and Embedded C related Projects
 - 🌱 I’m currently learning VLSI and Embedded Systems
 - 💞️ I’m looking to collaborate on VLSI and Embedded Systems project
 - 📫 How to reach me muhammedfayaspv999@gmail.com
